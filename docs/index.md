@@ -1,5 +1,5 @@
 
-## Welcome to GitHub Pages
+## Welcome to San Mateo Rio Hondo Pages
 
 You can use the [editor on GitHub](https://github.com/sn00per625/sn00per625.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```markdown 
 Syntax highlighted code block
 
 # Header 1

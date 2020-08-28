@@ -1,7 +1,4 @@
 
-layout: home
----
-=======
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sn00per625/sn00per625.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.

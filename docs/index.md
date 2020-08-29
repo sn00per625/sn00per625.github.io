@@ -1,4 +1,7 @@
-
+<!-- For styles with static names... -->
+<link href="{{ 'assets/css/style.css' | relative_url }}" rel="stylesheet">
+<!-- For documents/pages whose URLs can change... -->
+[{{ page.title }}]("{{ page.url | relative_url }}")
 ## Welcome to San Mateo Rio Hondo Pages
 
 You can use the [editor on GitHub](https://github.com/sn00per625/sn00per625.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.

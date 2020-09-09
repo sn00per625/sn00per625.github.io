@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Welcome to Jekyll!
 #
@@ -43,6 +42,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-=======
-theme: jekyll-theme-slate
->>>>>>> e661427ae3788265e21735979cd1a26ad50f1bbb
+
